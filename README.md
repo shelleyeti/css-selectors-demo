@@ -1,1 +1,3 @@
-# CSS Selectors from homework
+CSS Selectors from homework
+
+Practicing css selectors
